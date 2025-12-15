@@ -29,7 +29,7 @@ This app demonstrates basic e-commerce functionality including product listing, 
 
 | Home Page | Product Details | Cart |
 |----------|----------------|------|
-| ![Home](demos/homepage.png) | ![Details](demos/product_details.png) | ![Cart](demos/cart.png) |
+| ![Home](demos/homepage.png) | ![Details](demos/product_detail.png) | ![Cart](demos/cart.png) |
 
 ---
 
