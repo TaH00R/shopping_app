@@ -1,0 +1,50 @@
+final products = [
+{
+  'id':'0',
+  'title':'Men\'s Nike Shoes',
+  'price':44.53,
+  'sizes': [8,9,10,11,12],
+  'company':'Nike',
+  'imageURL':'assets/images/Nike.webp',   
+},
+{
+  'id':'1',
+  'title':'Men\'s Adidas Shoes',
+  'price': 20.43,
+  'sizes': [8,9,11,12],
+  'company':'Adidas',
+  'imageURL':'assets/images/adidas1.png',   
+},
+{
+  'id':'2',
+  'title':'Women\'s Adidas Shoes',
+  'price':34.23,
+  'sizes': [8,9,10,11],
+  'company':'Adidas',
+  'imageURL':'assets/images/adidas.png',   
+},
+{
+  'id':'3',
+  'title':'Women\'s Jordan Shoes',
+  'price':56.42,
+  'sizes': [10,11,12],
+  'company':'Nike',
+  'imageURL':'assets/images/Jordan1.png',   
+},
+{
+  'id':'4',
+  'title':'Men\'s Jordan Shoes',
+  'price':76.43,
+  'sizes': [8,10,12],
+  'company':'Jordan',
+  'imageURL':'assets/images/Jordan2.png',   
+},
+{
+  'id':'5',
+  'title':'Women\'s Nike Shoes',
+  'price':20.32,
+  'sizes': [8,9,10],
+  'company':'Nike',
+  'imageURL':'assets/images/Nike2.webp'  
+},
+];
